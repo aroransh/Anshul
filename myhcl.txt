@@ -1,1 +1,2 @@
 This is myhcl version 1
+This is myhcl version 2
